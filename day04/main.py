@@ -59,7 +59,7 @@ else:
       print(f"The computer chose: Paper {paper}")
       if choice == 0:
         print("You lose, Paper wins against rock.")
-      elif choice == 0:
+      elif choice == 1:
         print("It's a draw!")
       else:
         print("You win!")
